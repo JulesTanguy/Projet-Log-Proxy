@@ -179,4 +179,4 @@
 12:04:29 	192.168.2.100 GET 200 http://r.ad6media.fr/c3/s 488+44 OK
 12:04:29 	192.168.2.100 GET 200 http://banner.adserverpub.com/spacer.gif 304+49 OK
 12:04:29 	192.168.2.100 GET 200 http://dis.criteo.com/dis/rtb/appnexus/cookiematch.aspx? 285+43 OK
-12:04:29 	192.168.2.100 GET 200 http://static.eu.criteo.net/empty.html 303+214 OK 
+12:04:29 	192.168.2.100 GET 200 http://static.eu.criteo.net/empty.html 303+214 OK      

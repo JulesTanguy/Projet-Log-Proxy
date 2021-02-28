@@ -84,4 +84,4 @@
 11:33:56 	192.168.2.100 GET 200 http://openvpn.net/modules/mod_roknavmenu/themes/fusion/images/level3-parent.png 359+228 OK
 11:33:56 	192.168.2.100 GET 200 http://openvpn.net/modules/mod_roknavmenu/themes/fusion/images/level2-parent.png 359+228 OK
 11:33:56 	192.168.2.100 GET 200 http://openvpn.net/modules/mod_roknavmenu/themes/fusion/images/top-light.png 359+219 OK
-11:33:56 	192.168.2.100 GET 200 http://openvpn.net/templates/telethra/img/bg-content.png 360+753 OK 
+11:33:56 	192.168.2.100 GET 200 http://openvpn.net/templates/telethra/img/bg-content.png 360+753 OK  

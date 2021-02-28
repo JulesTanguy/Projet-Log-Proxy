@@ -97,4 +97,4 @@
 07:07:18 	192.168.2.1 GET 200 http://www.lequipe.fr/directs/empreintes/checkAll.json 329+200 OK
 07:08:15 	192.168.2.1 GET 302 http://download.mozilla.org/? 416+0 OK
 07:08:20 	192.168.2.1 GET 304 http://www.lequipe.fr/directs/empreintes/checkAll.json 264+0 OK
-07:08:21 	192.168.2.1 GET 200 http://download.cdn.mozilla.net/pub/mozilla.org/firefox/releases/25.0/update/win32/fr/firefox-24.0-25.0.partial.mar 389+9989752 OK 
+07:08:21 	192.168.2.1 GET 200 http://download.cdn.mozilla.net/pub/mozilla.org/firefox/releases/25.0/update/win32/fr/firefox-24.0-25.0.partial.mar 389+9989752 OK  
