@@ -1,5 +1,3 @@
-# Projet-Log-Proxy
-
 ## Consignes
 
 Pour être en conformité avec les obligations légales concernant la mise à disposition d’Internet, la société STESIO a mis en place un proxy pour journaliser les accès au web réalisés par ses salariés. A partir de ce journal, le responsable du système d’information (S.I.) souhaite établir des statistiques comme :
