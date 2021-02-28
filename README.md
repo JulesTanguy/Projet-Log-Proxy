@@ -5,6 +5,7 @@
 Pour être en conformité avec les obligations légales concernant la mise à disposition d’Internet, la société STESIO a mis en place un proxy pour journaliser les accès au web réalisés par ses salariés. A partir de ce journal, le responsable du système d’information (S.I.) souhaite établir des statistiques comme :
 - les sites les plus visités
 - la liste des utilisateurs les plus consommateurs 
+
 et dans les cas où cela est nécessaire (enquête de police par exemple) être capable de répondre à une requête du type :
 -  qui a consulté tel site, tel jour, à telle heure ?
 
