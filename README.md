@@ -12,4 +12,4 @@ Le fichier de log du proxy est un simple fichier texte (log_proxy.txt) contenant
 
 Le responsable du SI vous demande de créer une base de données sur ORACLE  qui contiendra les tables suivantes :\
 SALARIES (num, nom, prenom, adresseIP) - clef primaire : num\
-PROXY (id, adresseIP, jourheure, URL)  - clef primaire : id\
+PROXY (id, adresseIP, jourheure, URL)  - clef primaire : id
