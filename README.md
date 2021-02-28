@@ -13,5 +13,5 @@ et dans les cas où cela est nécessaire (enquête de police par exemple) être 
 Le fichier de log du proxy est un simple fichier texte (log_proxy.txt) contenant des informations sur les accès au web comme l’adresse IP, la date, l’heure, la commande HTTP utilisée (GET ou POST) , l’URL des différents éléments constituant la page téléchargée (images, bandeau, …). Ce journal étant d’une part, un fichier texte et d’autre part étant très volumineux,  il est difficile à utiliser directement pour répondre facilement à ces besoins.
 
 Le responsable du SI vous demande de créer une base de données sur ORACLE  qui contiendra les tables suivantes :\
-SALARIES (num, nom, prenom, adresseIP) - clef primaire : num\
-PROXY (id, adresseIP, jourheure, URL)  - clef primaire : id
+SALARIES (**num**, nom, prenom, adresseIP) - clef primaire : **num**\
+PROXY (**id**, adresseIP, jourheure, URL)  - clef primaire : **id**
