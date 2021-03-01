@@ -20,6 +20,8 @@ PROXY (**id**, adresseIP, jourheure, URL)  - clef primaire : **id**
 
 2. Executez le scrpit
 
+3. Excutez les commandes SQL produites par le script sur votre serveur de base de données Oracle
+
 Pour chaque fichier de log (obligatoirement nommé "log_proxy_YYYY-MM-DD.txt") le scrpit va créer le fichier SQL correspondant.
 
 Le script créé également un fichier insert_final.sql qui contient toutes les commandes SQL des fichiers logs précédents.
